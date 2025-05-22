@@ -1,0 +1,5 @@
+pygame
+requests
+beautifulsoup4
+yt_dlp
+manim
